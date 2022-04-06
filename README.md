@@ -1,7 +1,6 @@
-In this assignment let's build **Technology Cards** by applying the concepts we
-have learned till now.
+Below given task is deployed on the given link: https://technology-cards.netlify.app
 
-### Refer to image below:
+### Assignment:
 
 <br/>
 <div style="text-align: center;">
